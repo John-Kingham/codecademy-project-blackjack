@@ -12,7 +12,7 @@ https://planningwithkids.com/2012/06/20/21-card-game/
 
 ## Version 1
 
-The initial version will have a simplified set of rules.
+The initial version will have a simplified set of rules:
 
 1. The game has one dealer and one player.
 2. The goal is to have your cards total 21 or as close as possible without going over.
